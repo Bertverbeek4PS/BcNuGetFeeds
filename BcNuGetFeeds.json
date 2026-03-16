@@ -110,5 +110,19 @@
         ],
         "fingerprints": [
         ]
+    },
+    {
+        "owner": "bc2adls",
+        "name": "bc2adls",
+        "public": true,
+        "description": "This feed contains the PTE and Appsource packages for apps created by the bc2adls team.",
+        "contact": "bertverbeek@hotmail.com",
+        "viewfeed": "https://github.com/Bertverbeek4PS?tab=packages",
+        "url": "https://nuget.pkg.github.com/Bertverbeek4PS/index.json",
+        "patterns": [
+            "*"
+        ],
+        "fingerprints": [
+        ]
     }
 ]
